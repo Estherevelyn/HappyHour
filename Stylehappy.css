@@ -110,7 +110,7 @@ table {
 }
 
 td, th {
-    border-right: 2px solid #537D5D;
+    /* border-right: 2px solid #537D5D; */
     border-bottom: 2px solid #537D5D;
     padding: 20px;
 }
